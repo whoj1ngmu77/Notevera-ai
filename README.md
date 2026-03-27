@@ -263,37 +263,5 @@ Return JSON: {"score": 0-100, "feedback": "...", "missing_points": [...]}
 
 ---
 
-## ✨ UI Features
-
-| Feature | Detail |
-|---------|--------|
-| Theme | Space / galaxy dark with neon purple-blue gradients |
-| Animations | Framer Motion page transitions + hover effects |
-| Background | Animated star field canvas |
-| Cards | Glassmorphism with glowing borders |
-| Typography | Orbitron (headings) + Inter (body) |
-| Mode Switch | Dark ↔ Light via CSS variables |
-
----
-
-## 🚀 Future Features (Startup Roadmap)
-
-- [ ] **Team / Group Study** — shared notes and collaborative study rooms
-- [ ] **Flashcard Generator** — auto-create spaced repetition flashcards from notes
-- [ ] **Progress Analytics** — weekly learning heatmaps and performance graphs
-- [ ] **Mobile App** — React Native companion with offline mode
-- [ ] **Multi-language Support** — notes in 20+ languages
-- [ ] **LMS Integration** — Canvas, Moodle, Google Classroom connectors
-- [ ] **AI Tutor Chat** — real-time Q&A on uploaded material
-- [ ] **Browser Extension** — clip web articles directly into Notevera
-- [ ] **Subscription Tier** — freemium with premium AI features
-
----
-
-## 👥 Team
-
-Built with ❤️ for hackathon development. Designed to scale into a real startup.
-
----
 
 *Notevera AI — Study Smarter. Not Harder.* 🌌
